@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0a0f"/>
+      <stop offset="40%" style="stop-color:#12082a"/>
+      <stop offset="100%" style="stop-color:#0d1b2a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00f5ff"/>
+      <stop offset="50%" style="stop-color:#bf5af2"/>
+      <stop offset="100%" style="stop-color:#ff2d92"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00f5ff;stop-opacity:0.15"/>
+      <stop offset="50%" style="stop-color:#bf5af2;stop-opacity:0.25"/>
+      <stop offset="100%" style="stop-color:#ff2d92;stop-opacity:0.15"/>
+    </linearGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <ellipse cx="200" cy="140" rx="180" ry="100" fill="url(#glow)" filter="url(#blur)"/>
+  <ellipse cx="900" cy="80" rx="220" ry="120" fill="url(#glow)" filter="url(#blur)"/>
+  <ellipse cx="600" cy="220" rx="300" ry="60" fill="url(#glow)" filter="url(#blur)"/>
+  <line x1="0" y1="276" x2="1200" y2="276" stroke="url(#accent)" stroke-width="3"/>
+  <text x="600" y="115" text-anchor="middle" font-family="Segoe UI, system-ui, sans-serif" font-size="54" font-weight="700" fill="url(#accent)">F A I A Z   Z A H I N</text>
+  <text x="600" y="165" text-anchor="middle" font-family="Segoe UI, system-ui, sans-serif" font-size="20" fill="#8b9cb3" letter-spacing="6">DATA · AI · FULL STACK · DHAKA</text>
+  <text x="600" y="210" text-anchor="middle" font-family="Consolas, monospace" font-size="14" fill="#5c6b7f">&lt; building the future, one commit at a time /&gt;</text>
+</svg>
