@@ -1,0 +1,74 @@
+name: Sync profile to fzn011/fzn011
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Push profile files to fzn011/fzn011
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+
+            const files = [
+              'README.md',
+              'assets/banner.svg',
+              'assets/profile.png',
+              '.github/workflows/snake.yml',
+            ];
+
+            const target = { owner: 'fzn011', repo: 'fzn011' };
+
+            async function upsert(filePath) {
+              const content = fs.readFileSync(filePath).toString('base64');
+              let sha;
+              try {
+                const { data } = await github.rest.repos.getContent({
+                  ...target,
+                  path: filePath,
+                });
+                sha = data.sha;
+              } catch (error) {
+                if (error.status !== 404) throw error;
+              }
+
+              await github.rest.repos.createOrUpdateFileContents({
+                ...target,
+                path: filePath,
+                message: `Sync profile: ${filePath}`,
+                content,
+                sha,
+              });
+            }
+
+            for (const file of files) {
+              await upsert(file);
+              core.info(`Synced ${file}`);
+            }
+
+            try {
+              const { data } = await github.rest.repos.getContent({
+                ...target,
+                path: 'Faiaz Zahin.png',
+              });
+              await github.rest.repos.deleteFile({
+                ...target,
+                path: 'Faiaz Zahin.png',
+                message: 'Remove legacy profile asset',
+                sha: data.sha,
+              });
+            } catch (error) {
+              if (error.status !== 404) throw error;
+            }
