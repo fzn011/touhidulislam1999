@@ -1,141 +1,137 @@
-![logo](https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Banner%20Final%20(1).jpg)
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
-<p align="center">
-  <a href="https://github.com/touhidulislam1999">
-    <img width="350" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Touhidul%20Islam2.png" alt="Touhidul Islam" /></a>
-</p>
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things;Passionate%20Electrical%20Engineer%20from%20Bangladesh&font=Fira%20Code&center=true&width=610&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
-</p>
+<div align="center">
 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.youtube.com/c/touhidulislam"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/touhidul-islam-eee-iut/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.facebook.com/touhidul.14.11.99"><img width="33px" alt="Facebook" title="Facebook" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/F2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://x.com/Touhidu36442112"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://introcardbd.app/profile/md-touhidul-islam"><img width="42px" alt="Dev.to" title="Touhidul Islam" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Profile.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://touhidul.com/"><img width="40px" alt="Ko-fi" title="Website" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Website.png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
-</p>
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
-    <img width="200px" alt="views" title="GitHub profile views" src="https://github.com/touhidulislam1999/touhidulislam1999/blob/main/Visitors.png"/></a>
-</p>
-<p align='center'><img alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"></p>
+<img src="assets/banner.svg" width="100%" alt="Faiaz Zahin — Data, AI & Full Stack Developer from Dhaka"/>
 
+<br/><br/>
 
-- 🔭 I’m currently working on **Traffic Vehicle Detection of Dhaka City using Deep Learning Algorithm**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=700&lines=CS+Graduate+%7C+Data+%26+AI+Enthusiast;Turning+ideas+into+elegant+code;Building+intelligent+solutions+from+Dhaka+%F0%9F%87%B7%F0%9F%87%A9" alt="Typing intro"/>
 
-- 🌱 I’m currently learning **Computer Visions, Machine Learning, Full Stack, DBMS**
+<br/><br/>
 
-- 🤝 I’m looking for help with [Store Billing Management System](https://script.google.com/macros/s/AKfycbykWz0ata6-XJmmBsxW4ueB2Z85EiKHmW0mZbZ1Tk__wbcR5IUVgrasWs_lT9tHfcV6mw/exec)
+<a href="https://github.com/fzn011">
+  <img src="assets/profile.png" width="340" alt="Faiaz Zahin"/>
+</a>
 
-- 👨‍💻 All of my projects are available at [Projects](https://touhidul.com/projects/)
+<br/><br/>
 
-- 📝 I regularly write articles on [Blogs](https://touhidul.com/travels/)
+**`Code Architect  ·  Data Storyteller  ·  AI Explorer`**
 
-- 💬 Ask me about **How was my day?**
-
-- 📫 How to reach me **touhidulislam@iut-dhaka.edu**
-
-- 📄 Know about my experiences [CV](https://drive.usercontent.google.com/uc?id=1v9JEKsm2Mu9aBTV7xl5ClhKFz8zOi7qx&export=download)
-
-- ⚡ Fun fact **I think I've got quite a diverse set of interests.**
 <br/>
 
-##  🚀 Skills:
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0F?style=for-the-badge&logo=googlechrome&logoColor=00F5FF)](https://fzn011.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=00F5FF)](https://www.linkedin.com/in/faiaz-zahin21/)
+[![Email](https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=FF2D92)](mailto:faiazzahin@gmail.com)
+[![CV](https://img.shields.io/badge/Resume-0A0A0F?style=for-the-badge&logo=readthedocs&logoColor=BF5AF2)](https://drive.usercontent.google.com/uc?id=1wK6YLanh0YXeHYw4cu3_p7yL9_Edn_V6&export=download)
+[![Facebook](https://img.shields.io/badge/Facebook-0A0A0F?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/iamfzn0/)
 
-  <table style="margin: auto; margin-bottom: 15px;">
-  <tr>
-    <th style="text-align: center;">Programming Languages</th>
-    <th style="text-align: center;">IDE</th>
-    <th style="text-align: center;">DB</th>
-    <th style="text-align: center;">Softwares & Tools</th>
-  </tr>
-  <tr>
-    <td>
-      <!-- Languages -->
-      <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img width="50" src="https://i.imgur.com/fBbDhL8.png" alt="Python"> </a>
-      <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img width="50" src="https://i.imgur.com/ebIT2kU.png" alt="C++"> </a>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img width="50" src="https://i.imgur.com/XvIHNB6.png" alt="C"> </a>
-      <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img width="50" src="https://i.imgur.com/gQcqAZL.png" alt="Java"> </a>
-      <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/RcFhqDv.png" alt="SQL"> </a>
-      <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img width="40" src="https://i.imgur.com/7IIHixI.png" alt="JavaScript"> </a>
-      <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img width="50" src="https://imgur.com/mfIYuN2.png" alt="React"></a>
-      <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img width="50" src="https://imgur.com/dSQraap.png" alt="Node"> </a>
-    </td>
-    <td>
-      <!-- IDE -->
-      <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/xPCHbol.png" alt="Visual Studio"> </a>
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/o2eJwjS.png" alt="VS code"> </a>
-      <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/8RAcHjp.png" alt="Jet Brains"> </a>
-    </td>
-    <td>
-      <!-- Database -->
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/VFIL02m.png" alt="MySQL"> </a>
-    </td>
-    <td>
-      <!-- Software & Tools -->
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/67tIoa4.png" alt="Git"> </a>
-      <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/mCUiCIm.png" alt="Adobe"> </a>
-      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/X5e0bWR.png" alt="Arduino"> </a>
-      <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img width="40" src="https://i.imgur.com/wOhq2gN.png" alt="Android Studio"> </a>
-    </td>
-  </tr>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=fzn011&label=PROFILE%20VIEWS&color=00f5ff&style=for-the-badge" alt="Profile views"/>
+
+</div>
+
+---
+
+### ⚡ About Me
+
+```python
+class FaiazZahin:
+    location    = "Dhaka, Bangladesh 🇧🇩"
+    focus       = ["AI/ML", "Data Analysis", "Full Stack Development"]
+    currently   = "AI solutions for Bangladesh's cultural heritage"
+    learning    = ["Deep Learning", "NLP", "System Design"]
+    fun_fact    = "Diverse interests — code by day, curiosity always on"
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🔭 **Now building**  
+Innovative AI solutions for the digitalization & preservation of Bangladesh's cultural heritage
+
+🌱 **Leveling up in**  
+Artificial Intelligence · Machine Learning · Full Stack · DBMS
+
+</td>
+<td width="50%" valign="top">
+
+👨‍💻 **Explore my work**  
+[GitHub Repositories](https://github.com/fzn011?tab=repositories) · [Live Portfolio](https://fzn011.github.io/portfolio/)
+
+📫 **Reach me**  
+`faiazzahin@gmail.com`
+
+📄 **Experience**  
+[Download CV](https://drive.usercontent.google.com/uc?id=1wK6YLanh0YXeHYw4cu3_p7yL9_Edn_V6&export=download)
+
+</td>
+</tr>
 </table>
-<br/>
-<!--
-<h1 align="center" style="font-size: 50px;">Skills</p>
-<br/>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
--->
- 📉 GitHub Stats 📈
 
-<p align="center">
-   <table>
-      <tr>
-       <th>Profile stats  </th>
-       <th>Language Contribution</th>
-     </tr>
-      <tr>
-       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=touhidulislam1999&show_icons=true&theme=transparent&layout=compact&hide=html"> </td>
-       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidulislam1999&langs_count=10&theme=transparent&layout=compact&hide=html"> </td>
-       <tr>
-       <td><img alt="Devorein :: Top Langs]" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=touhidulislam1999&langs_count=10&theme=transparent&layout=compact&hide=html"> </td>
-       <td><img alt="Devorein :: Contribution graph]" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=touhidulislam1999&theme=transparent&layout=compact&hide=html"> </td>
-       </tr>
-     </tr>
-   </table>
-</p>
-<br>
+---
+
+<div align="center">
+
+### 🛠️ Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts,react,nodejs,html,css,tailwind,django,flask,mysql,postgres,git,github,vscode,linux,docker,figma&perline=11" alt="Tech stack"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:bf5af2,100:ff2d92&height=100&section=footer&text=Always%20shipping.%20Always%20learning.&fontSize=20&fontColor=ffffff" width="100%"/>
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Link |
+|:--------|:------|:-----|
+| **AI Job Market Intelligence** | `Python` `NLP` `Streamlit` | [Repo](https://github.com/fzn011/AI-Job-Market-Intelligence-Skill-Gap-Recommender) |
+| **World Cup Prediction Model** | `Python` `ML` | [Repo](https://github.com/fzn011/WorldCupPredictionModel) |
+| **Cardiovascular Disease Prediction** | `Jupyter` `Scikit-learn` | [Repo](https://github.com/fzn011/Cardiovascular_Disease_Prediction) |
+| **Spotify × Billboard Top 100** | `Python` `Web Scraping` | [Repo](https://github.com/fzn011/Spotify-Playlist-by-scraping-Billboard-top-100-of-any-year) |
+| **Personal Portfolio** | `HTML` `CSS` `JS` | [Live](https://fzn011.github.io/portfolio/) · [Repo](https://github.com/fzn011/portfolio) |
+| **Clothing Store (Django)** | `Django` `HTML` | [Repo](https://github.com/fzn011/Clothing-Store-Website-using-DJANGO) |
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Analytics
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=fzn011&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=bf5af2&text_color=c9d1d9&rank_icon=percentile" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=fzn011&theme=tokyonight&hide_border=true&background=0D1117&ring=00f5ff&fire=ff2d92&currStreakLabel=bf5af2" alt="GitHub streak"/>
+
+<br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzn011&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fzn011&theme=tokyonight" alt="Profile details"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fzn011&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8b9cb3&line=00f5ff&point=ff2d92&area=true&area_color=bf5af2" width="100%" alt="Contribution graph"/>
+
+<br/><br/>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fzn011/fzn011/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fzn011/fzn011/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fzn011/fzn011/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=80&text=Thanks%20for%20visiting!%20Let's%20build%20something%20epic.&color=0:0a0a0f,100:12082a&fontSize=18&fontColor=00f5ff" width="100%"/>
+
+**⭐ Star a repo if something catches your eye — it fuels the next build.**
+
+</div>
