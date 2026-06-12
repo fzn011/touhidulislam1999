@@ -1,8 +1,6 @@
 name: Sync profile to fzn011/fzn011
 
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
@@ -17,7 +15,7 @@ jobs:
       - name: Push profile files to fzn011/fzn011
         uses: actions/github-script@v7
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.PROFILE_SYNC_TOKEN || secrets.GITHUB_TOKEN }}
           script: |
             const fs = require('fs');
             const path = require('path');
